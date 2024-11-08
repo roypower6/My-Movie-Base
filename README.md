@@ -14,7 +14,7 @@ The Movie DataBase의 Open API를 이용하여 최신 영화, 장르별 영화�
       <img src="https://github.com/user-attachments/assets/009ad09e-94fd-4f73-9aec-6d5ce3daa661" width="200"/>
     </td>
     <td width="60%">
-      <h4>추천 영화를 보여주는 메인 화면(가로 스크롤 가능)</h4>
+      <h4>📽 추천 영화를 보여주는 메인 화면(가로 스크롤 가능)</h4>
       <ul>
         <li>최신 영화</li>
         <li>애니메이션</li>
@@ -32,7 +32,7 @@ The Movie DataBase의 Open API를 이용하여 최신 영화, 장르별 영화�
       <img src="https://github.com/user-attachments/assets/b946e1b5-e772-4589-afe3-59fadbc7a595" width="200"/>
     </td>
     <td width="60%">
-      <h4>영화 상세 정보 화면에서 관심 버튼을 눌러 관심 목록에서 내가 좋아하는 영화들을 저장해둘 수 있습니다. 앱을 꺼도 이 목록은 없어지지 않습니다.</h4>
+      <h4>🎞 영화 상세 정보 화면에서 관심 버튼을 눌러 관심 목록에서 내가 좋아하는 영화들을 저장해둘 수 있습니다. 앱을 꺼도 이 목록은 없어지지 않습니다.</h4>
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@ The Movie DataBase의 Open API를 이용하여 최신 영화, 장르별 영화�
       <img src="https://github.com/user-attachments/assets/1fe50f2c-d42f-4121-a584-a1841cd59673" width="200"/>
     </td>
     <td width="60%">
-      <h4>영화를 직접 찾아보기 위해 검색할 수 있습니다. 검색한 영화는 최근 검색한 영화 목록에 남게 됩니다.</h4>
+      <h4>🔎 영화를 직접 찾아보기 위해 검색할 수 있습니다. 검색한 영화는 최근 검색한 영화 목록에 남게 됩니다.</h4>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ The Movie DataBase의 Open API를 이용하여 최신 영화, 장르별 영화�
       <img src="https://github.com/user-attachments/assets/4ad649e4-78eb-4678-b407-2cd7f2759ae8" width="200"/>
     </td>
     <td width="60%">
-      <h4>앱 정보를 확인할 수 있는 화면입니다.</h4>
+      <h4>⚙️ 앱 정보를 확인할 수 있는 화면입니다.</h4>
       <ul>
         <li>영화 API 제공사 로고</li>
         <li>앱 버전</li>
@@ -75,7 +75,7 @@ The Movie DataBase의 Open API를 이용하여 최신 영화, 장르별 영화�
       <img src="https://github.com/user-attachments/assets/828ff085-bfdc-4f2a-98fc-1fbb34760853" width="200"/>
     </td>
     <td width="60%">
-      <h4>상단 오른쪽에 관심 등록 버튼이 있어 누르면 관심 목록에 등록됩니다. 다양한 영화 정보를 확인할 수 있습니다.</h4>
+      <h4>📌 상단 오른쪽에 관심 등록 버튼이 있어 누르면 관심 목록에 등록됩니다. 다양한 영화 정보를 확인할 수 있습니다.</h4>
       <ul>
         <li>개봉일</li>
         <li>장르 목록</li>
